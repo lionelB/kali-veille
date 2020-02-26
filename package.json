@@ -1,0 +1,15 @@
+{
+  "name": "beta.gouv",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@socialgouv/dila-api-client": "^1.1.0",
+    "esm": "^3.2.25",
+    "p-map": "^3.0.0",
+    "p-pipe": "^3.0.0",
+    "p-queue": "^6.3.0",
+    "unist-util-filter": "^2.0.2",
+    "unist-util-flat-filter": "^1.0.0"
+  }
+}
